@@ -25,11 +25,11 @@ Our system uses **OCR (Optical Character Recognition)** for text extraction, **T
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1200px-YouTube_full-color_icon_%282017%29.svg.png" width="50" height="50">
 </a>  
 
-**[🎬 CLICK HERE or CLICK Image to WATCH ON YOUTUBE 🎬](https://www.youtube.com/)**  
+**[🎬 CLICK HERE or CLICK Image to WATCH ON YOUTUBE 🎬](https://youtu.be/vePNHeYb9Sg)**  
 
 ### Intro To Translation Platform Video  
 
-[![AI/ML Translation Demo](https://i.postimg.cc/tTFwQ3J6/PRAVASA.png)](https://www.youtube.com/)
+[![AI/ML Translation Demo](https://i.postimg.cc/tTFwQ3J6/PRAVASA.png)](https://youtu.be/vePNHeYb9Sg)
 
 </div>  
 
@@ -185,5 +185,6 @@ We believe in using **technology for good** — where **AI amplifies human creat
 
 ##
 Empowering Culture with Code, **One Language at a Time.**  
+
 
 
