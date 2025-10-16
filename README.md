@@ -154,8 +154,21 @@ Our solution bridges this gap with an AI-driven translation model that **learns 
 
 > *“When culture meets code, preservation becomes permanent.”*  
 > — **Team Pravasa**
+## 🤝 Contributors
+We are a passionate team dedicated to solving Real India's rural education challenges through innovative, low-bandwidth technology solutions.
 
+| [Abhishek](https://www.linkedin.com/in/abhishek-sangule-07b202319/) | [Vinay](https://www.linkedin.com/in/vinay-vyas-96a85b28b/) | [Shreya](https://www.linkedin.com/in/shreya-langote-7729702b5) |
+| --- | --- | --- |
+| <img src="https://iili.io/KkZxCOl.md.jpg" width="700"> | <img src="https://iili.io/KkZ1GUl.md.jpg" width="700"> | <img src="https://iili.io/KkQpt8g.md.png" width="700"> |
+| Team Leader & Backend Developer | Full Stack Developer | GenAI Expert & Kotlin Developer |
+
+| [Ravi](https://www.linkedin.com/in/ravi-shinde-058004280/) | [Sakshi](https://www.linkedin.com/in/sakshi-totala-435496256/) | [Prathamesh](https://www.linkedin.com/in/prathmeshkathar-3b5125229/) |
+| --- | --- | --- |
+| <img src="https://iili.io/KkZW5n1.md.jpg" width="700"> | <img src="https://iili.io/KkZhHI2.md.jpg" width="700"> | <img src="https://iili.io/KkZw7bR.md.jpg" width="700"> |
+| Python Expert & Flutter Developer | Cloud Expert | UI/UX Specialist |
 ---
+
+
 # SIH 2025 – AI for Heritage & Culture 🇮🇳  
 
 > **"Preserving the past, Empowering the future — through AI Translation."**
@@ -185,6 +198,7 @@ We believe in using **technology for good** — where **AI amplifies human creat
 
 ##
 Empowering Culture with Code, **One Language at a Time.**  
+
 
 
 
